@@ -45,7 +45,7 @@ In this step, we'll configure AWS CodeBuild to build our Python application base
 - Set up the artifacts configuration to generate the build output required for deployment.
 - Review the build project settings and click on the "Create build project" button to create your AWS CodeBuild project.
 
-Fantastic! With AWS CodeBuild all set up, we're now ready to witness the magic of continuous integration in action.
+Fantastic! With AWS CodeBuild all set up, we're now ready to witness the magic of continuous integration in action...
 
 ## Trigger the CI Process
 
